@@ -1,0 +1,30 @@
+.AppName {
+  text-align: center;
+  color: White;
+}
+.cart {
+  text-align: right;
+}
+
+.nav-mod {
+  cursor: pointer;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  border-radius: 50%;
+  text-align: left;
+}
+
+.icon {
+  align-content: left;
+  text-align: left;
+}
+
+.reset {
+  align-content: right;
+  text-align: right;
+}

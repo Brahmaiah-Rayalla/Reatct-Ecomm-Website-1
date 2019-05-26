@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.panel-heading {
+  text-align: left;
+  align-content: left;
+}
+.reset-heading {
+  text-align: right;
+  align-content: right;
+}

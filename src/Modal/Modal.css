@@ -1,0 +1,19 @@
+.img {
+  height: 10px;
+  width: 10px;
+}
+
+.times-close {
+  align-content: left;
+  text-align: left;
+  size: 50px;
+}
+
+.modal-full {
+  min-width: 100%;
+  margin: 0;
+}
+
+.modal-full .modal-content {
+  min-height: 100vh;
+}

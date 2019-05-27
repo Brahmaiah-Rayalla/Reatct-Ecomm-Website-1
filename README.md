@@ -15,6 +15,14 @@ Created with CodeSandbox
   # Build Tool
   <li> codeSanbox Online editor for easy and development.</li>
   
+   # Screen prints 
+  # React Components View
+  ![Capture-1](https://github.com/Brahmaiah-Rayalla/Reatct-Ecomm-Website-1/blob/master/IMG_20190527_174614.jpg)
+
+  
+  
+
+  
 
   
  

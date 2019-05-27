@@ -8,9 +8,10 @@ Created with CodeSandbox
 <li> Field Validations</li>
 <li> Styling components using Bootstrap</li>
 </ul>
+My Blog URL :http://brahma517.blogspot.com/2019/05/reatct-ecomm-website-latest-created.html?m=1
 
-
-# Live URL : https://unruffled-engelbart-9b7838.netlify.com/
+# Live URL : 
+https://unruffled-engelbart-9b7838.netlify.com/
   
   # Build Tool
   <li> codeSanbox Online editor for easy and development.</li>

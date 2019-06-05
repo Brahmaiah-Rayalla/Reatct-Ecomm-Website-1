@@ -11,7 +11,7 @@ import "./styles.css";
 class App extends React.Component {
   gProducts = [
     {
-      name: "Samsumn Galaxy",
+      name: "Samsung Galaxy",
       price: 300,
       img: "SAMSUNG_Galaxy.png",
       ram: "8GB",

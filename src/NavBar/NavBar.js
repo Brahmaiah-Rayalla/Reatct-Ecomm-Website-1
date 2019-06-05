@@ -3,6 +3,14 @@ import React from "react";
 import "./NavBar.css";
 
 class NavBar extends React.Component {
+  checkoutHandler = amount => {
+    alert(
+      "Total Cart Products: #" +
+        this.props.count +
+        "\n Total Cart Amount: $" +
+        this.props.totalAmount
+    );
+  };
   render() {
     return (
       <div className="jumbotron jumbotron-fluid bg-dark">
@@ -26,7 +34,7 @@ class NavBar extends React.Component {
             <h1>E-App </h1>
             <div className="cart">
               <h3>
-                <a className="nav-modal" onClick={this.props.click}>
+                <a className="nav-modal">
                   <span className="glyphicon glyphicon-shopping-cart" /> Cart{" "}
                 </a>
                 Items:{" "}
@@ -35,12 +43,22 @@ class NavBar extends React.Component {
                 <span className="badge badge-success">
                   ${this.props.totalAmount}
                 </span>
+                <div className="reset">
+                  <button className="btn btn-info" onClick={this.props.reset}>
+                    Reset
+                  </button>
+                  {"   "}
+                  <button
+                    className="btn btn-danger"
+                    onClick={this.checkoutHandler.bind(
+                      this,
+                      this.props.totalAmount
+                    )}
+                  >
+                    Checkout
+                  </button>
+                </div>
               </h3>
-            </div>
-            <div className="reeset">
-              <button className="btn btn-info" onClick={this.props.reset}>
-                Reset
-              </button>
             </div>
           </div>
         </div>

@@ -19,6 +19,12 @@ https://unruffled-engelbart-9b7838.netlify.com/
    # Screen prints 
   # React Components View
   ![Capture-1](https://github.com/Brahmaiah-Rayalla/Reatct-Ecomm-Website-1/blob/master/IMG_20190527_174614.jpg)
+  
+  # Carousel
+  ![Capture-2](https://github.com/Brahmaiah-Rayalla/Reatct-Ecomm-Website-1/blob/master/Capture-Ecomm-1-Carousel.PNG)
+  
+  # Filters
+  ![Capture-3](https://github.com/Brahmaiah-Rayalla/Reatct-Ecomm-Website-1/blob/master/Capture-Ecomm-1-Filters.PNG)
 
   
   
